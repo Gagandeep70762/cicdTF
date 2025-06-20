@@ -52,7 +52,7 @@ Before starting, ensure you have a basic understanding of:
 
     * View or download the access key and secret access key either from the console or via CSV download.
 
-        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720803402328/eda06a70-5d70-4ac5-856d-2daa2f739760.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/acess_key.png)
 
     ```bash
     sudo apt install unzip  
