@@ -52,7 +52,7 @@ Before starting, ensure you have a basic understanding of:
 
     * View or download the access key and secret access key either from the console or via CSV download.
 
-        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/acess_key.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/acess_key.png)
 
     ```bash
     sudo apt install unzip  
