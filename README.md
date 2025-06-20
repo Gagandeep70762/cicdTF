@@ -1,2 +1,8 @@
-# cicdTF
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+🚀 DevOps Project to Automate Infrastructure on AWS Using Terraform and GitLab CICD
+Before starting, ensure you have a basic understanding of:
+
+Basic Terraform Knowledge
+
+Understanding of CI/CD
+
+GitLab CI Knowledge
