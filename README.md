@@ -188,10 +188,10 @@ terraform apply -auto-approve
 # backend.tf
 terraform {
   backend "s3" {
-    bucket = "my-terraform-state"
+    bucket = "myterraform1944"
     key    = "terraform/state"
     region = "us-east-1"
-    dynamodb_table = "terraform-lock"
+    dynamodb_table = "Backend"
   }
 }
 ```
@@ -320,5 +320,5 @@ destroy:
   * Cleans up the environment after the job is completed.
 
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+
 
