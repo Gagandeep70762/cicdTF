@@ -7,6 +7,6 @@ resource "aws_instance" "server" {
   security_groups = [var.sg]
 
   tags = {
-    Name = "myserver"
+    Name = "my_server"
   }
 }
