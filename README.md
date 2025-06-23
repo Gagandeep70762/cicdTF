@@ -38,17 +38,17 @@ Before starting, ensure you have a basic understanding of:
 
     * Enter the username and proceed to the next step.
 
-        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720803238522/dff3c840-78ad-4c2a-ad76-d68f59c15363.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/1.png)
 
     * Assign permissions by attaching policies directly, opting for "Administrator access," and then create the user.
 
-        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720803283541/12c6404f-2f5a-4523-a50e-a573e1a2d089.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/2.png)
 
-        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720803345832/2f917349-88ef-4793-a3c6-6a93917cdb2a.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/3.png)
 
     * Locate "Create access key" in user settings, and choose the command line interface (CLI) option to generate an access key.
 
-        ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720803375154/2dfb24a4-f3ac-42dc-a028-e4d9238e6f85.png)
+        ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/4.jpg)
 
     * View or download the access key and secret access key either from the console or via CSV download.
 
@@ -218,7 +218,7 @@ git push -u origin dev
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720804043190/55c3c40a-6596-414a-b086-3ad0b5402c02.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720804073528/95b6d812-c601-4316-a09e-431f1c5c0fec.png)
+![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/S3_db.jpg)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720804103990/7d5265bc-5379-488a-9d31-c16da7d6c9c5.png)
 
@@ -303,9 +303,9 @@ destroy:
 
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720804633310/66ae858e-0b6f-4974-8406-146674f3d8ee.png)
 
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720804657672/534dddc3-d783-44a6-853b-40fa38d19f71.png)
+    ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/pipeline.jpg)
 
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720804693970/48c06297-afee-4dbb-800e-54c4ea725831.png)
+    ![](https://github.com/Gagandeep70762/cicdTF/blob/main/Images/Dynamo%20Table.png)
 
 ### 🌟 Final Notes
 
